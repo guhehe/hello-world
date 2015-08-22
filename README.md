@@ -1,6 +1,16 @@
 # hello-world
 This is the first step to galactic colonization.
 
+8/22/2015 11:45 GMT+8
+
+The tutorial just asked me to create a new branch and edit this piece of shit again.
+
+Can you believe it?
+
+I already have this awesome starting message below and now the already want me to change it?
+
+Damn it.
+
 8/22/2015 11:35PM GMT+8
 
 Read me. Reeeaadd Me. READ. ME.
