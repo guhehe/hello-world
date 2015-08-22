@@ -1,6 +1,71 @@
 # hello-world
 This is the first step to galactic colonization.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 8/22/2015 11:35PM GMT+8
 
 Read me. Reeeaadd Me. READ. ME.
