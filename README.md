@@ -1,7 +1,11 @@
 # hello-world
 This is the first step to galactic colonization.
 
-**8/22/2015 12:09 GMT+8**
+**8/23/2015 12:18 GMT+8**
+
+Edit from first-branch
+
+**8/23/2015 12:09 GMT+8**
 
 Please Fix #1
 
