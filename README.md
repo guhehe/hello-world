@@ -1,6 +1,10 @@
 # hello-world
 This is the first step to galactic colonization.
 
+**8/22/2015 12:09 GMT+8**
+
+Please Fix #1
+
 **8/22/2015 11:45 GMT+8**
 
 The tutorial just asked me to create a new branch and edit this piece of shit again.
